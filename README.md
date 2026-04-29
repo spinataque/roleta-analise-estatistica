@@ -10,7 +10,7 @@ Diferente de abordagens baseadas em intuição, aqui exploramos conceitos matem�
 - Frequência relativa vs probabilidade teórica  
 - Identificação de padrões e sequências  
 - Variação estatística e desvios  
-- Gestão de risco em cenários aleatórios  
+- Gestão de risco em cenários aleatórios
 
 ---
 
