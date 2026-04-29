@@ -82,3 +82,9 @@ Durante o desenvolvimento deste estudo, algumas ferramentas foram utilizadas par
 
 - **SpinGo** – ferramenta voltada à identificação de padrões recorrentes e ausentes utilizando análise de comportamento estatístico  
   👉 [SpinGo – identificação de padrões na roleta](https://spinataque.com/spingo/)
+
+## 📄 Artigo complementar
+
+Uma versão detalhada deste estudo também foi publicada no Medium:
+
+👉 [Leia o artigo completo](https://medium.com/@spinataque/an%C3%A1lise-estat%C3%ADstica-da-roleta-como-identificar-padr%C3%B5es-em-sequ%C3%AAncias-aleat%C3%B3rias-2f79c138c6aa)
